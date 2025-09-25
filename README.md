@@ -50,3 +50,6 @@ Age Group Insight: The 25–34 age group shows nearly 50% attrition, marking ear
 6. Screenshots / Demos
 
 Show what the dashboard looks like. -:https://github.com/LipanPatra12/HR-Attrition-dashoard/blob/main/Attrition%20dashboad%20screenshot.png
+
+
+<img width="882" height="496" alt="Attrition dashboad screenshot" src="https://github.com/user-attachments/assets/66613fc8-50f6-4711-87dd-74c0c358b231" />
