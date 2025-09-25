@@ -16,10 +16,10 @@ Example: The dashboard was built using the following tools and technologies:
 • 📝 Data Modeling – Relationships built among employee,and attrition tables to support cross-filtering and detailed analysis.
 • 📁 File Format – .pbix for report development and .png for dashboard previews and presentations.
 
-4. Data Source
+4. Data Source-:
 More info on where the data comes from and how it’s structured .Example: Company’s HRMS/Employee Records System.
 
-5. Features / Highlights
+5. Features / Highlights-:
 📌 Business Problem
 
 Employee attrition is a critical challenge for organizations as it directly impacts workforce stability, productivity, and hiring costs. The company needed clear insights into which branches, employee groups, and demographics are most affected by attrition in order to design targeted retention strategies.
