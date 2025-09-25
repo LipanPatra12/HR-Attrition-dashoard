@@ -22,7 +22,7 @@ Example: The dashboard was built using the following tools and technologies:
    
 More info on where the data comes from and how it’s structured .Example: Company’s HRMS/Employee Records System.
 
-6. Features / Highlights-:
+5.Features / Highlights-:
 
 📌 Business Problem
 
