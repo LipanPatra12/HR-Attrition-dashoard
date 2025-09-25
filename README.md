@@ -43,4 +43,4 @@ Education-Level Insight: Employees with a Bachelor’s degree are more likely to
 Age Group Insight: The 25–34 age group shows nearly 50% attrition, marking early-career professionals as the most vulnerable segment.
 
 6. Screenshots / Demos
-Show what the dashboard looks like. -: 
+Show what the dashboard looks like. -: ![dashboard].(https://github.com/LipanPatra12/HR-Attrition dashoard/blob/main/Attrition%20dashboad%20screenshot.png)
